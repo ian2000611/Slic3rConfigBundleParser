@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_Slic3rBuldleParser/templates *
+recursive-include octoprint_Slic3rBuldleParser/translations *
+recursive-include octoprint_Slic3rBuldleParser/static *
